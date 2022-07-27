@@ -42,6 +42,4 @@ Public URL: [http://jstory.ga](http://jstory.ga/)
 
 ---
 
-[팀원 소개](https://www.notion.so/695cb921188848e8a5b3127c94f2633b)
-
-![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://santafive.notion.site/3834450147f8438ba23daa934d7495a9](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://santafive.notion.site/3834450147f8438ba23daa934d7495a9)
+(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://santafive.notion.site/3834450147f8438ba23daa934d7495a9)
