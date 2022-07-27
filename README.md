@@ -20,7 +20,7 @@ Public URL: [http://jstory.ga](http://jstory.ga/)
 
 ## Project.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8dcb98ba-7164-4bfc-8341-7e986a2e7be1/Untitled.png)
+![image](https://user-images.githubusercontent.com/86671456/181288148-bae32ab9-cde8-4b4b-8e86-1924dc4d8559.png)
 
 ### 소고기는 진리지
 
@@ -31,7 +31,10 @@ Public URL: [http://jstory.ga](http://jstory.ga/)
 
 ---
 
-[Skills ](https://www.notion.so/fadd23e0081440cbaa550b62d3894252)
+**SKILLS**
+
+![image](https://user-images.githubusercontent.com/86671456/181288251-d1a8542b-c79b-4181-9110-5cf76f19e8b6.png)
+
 
 ---
 
