@@ -37,9 +37,3 @@ Public URL: [http://jstory.ga](http://jstory.ga/)
 
 
 ---
-
-[정리](https://www.notion.so/61556b60017a493faecab4a0dac28629)
-
----
-
-(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://santafive.notion.site/3834450147f8438ba23daa934d7495a9)
