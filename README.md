@@ -1,6 +1,6 @@
 # 소고기 품질 및 요리 추천(IR)
 
-부제: 내 소고기를 바꿔치기한 놈은 누구인가
+부제: 내 소고기를 바꿔치기한 사람은 누구인가
 
 Public URL: [http://jstory.ga](http://jstory.ga/)
 
